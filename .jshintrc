@@ -1,0 +1,16 @@
+{
+	"browser": true,
+	"camelcase": true,
+	"eqeqeq": true,
+	"forin": true,
+	"immed": true,
+	"latedef": false,
+	"newcap": true,
+	"noarg": true,
+	"undef": true,
+
+	"globalstrict": true,
+	"strict": true,
+	"trailing": true,
+	"unused": true
+}

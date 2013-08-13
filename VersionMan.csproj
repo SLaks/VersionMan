@@ -39,6 +39,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app\img\icon.png" />
+    <Content Include="app\js\bower_components\jquery\jquery.js" />
+    <Content Include="app\js\node_modules\semver\semver.browser.js" />
+    <Content Include="app\js\services.js" />
     <Content Include="app\popup.html" />
     <Content Include="app\popup.js" />
     <Content Include="Properties\build\lib\Ionic.Zip.DLL" />
@@ -47,7 +50,15 @@
     <Content Include="index.htm" />
     <Content Include="Properties\build\ligershark.chrome.targets" />
     <Content Include="screenshots\readme.txt" />
+    <Content Include=".jshintrc" />
+    <Content Include="packages.config" />
+    <Content Include="scripts\_background-references.js" />
+    <Content Include="app\js\bower.json" />
     <None Include="Readme.md" />
+    <None Include="scripts\jquery-2.0.3.intellisense.js" />
+    <Content Include="scripts\jquery-2.0.3.js" />
+    <Content Include="scripts\jquery-2.0.3.min.js" />
+    <Content Include="scripts\jquery-2.0.3.min.map" />
     <None Include="scripts\_references.js" />
     <None Include="scripts\chrome-api-vsdoc.js" />
   </ItemGroup>

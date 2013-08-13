@@ -7,6 +7,8 @@ You can also select a specific version for each supported piece of documentation
 If you open a page that does not exist in your preferred version, the extension will warn you that you're seeing a different version.  
 It will also have an option to temporarily open a different version for a single tab.
 
+For supporting sites (MSDN), it will also offer a choice of written language.
+
 ##Supported Libraries:
  - [Javadocs](http://docs.oracle.com/javase/)
   - http://docs.oracle.com/javase/1.3/docs/api/index.html
